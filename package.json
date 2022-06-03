@@ -1,0 +1,18 @@
+{
+  "name": "mybackend",
+  "version": "1.0.0",
+  "description": "cart project",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "author": "faisal",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.2",
+    "mongoose": "^6.1.8",
+    "nodemon": "^2.0.15",
+    "razorpay": "^2.8.1"
+  }
+}
